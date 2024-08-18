@@ -17,6 +17,7 @@ The CSV Comparison Service is a Spring Boot application that compares two CSV fi
 - Java
 - Spring Boot
 - OpenCSV
+- Apache POI
 
 ## Getting Started
 
@@ -26,6 +27,7 @@ The CSV Comparison Service is a Spring Boot application that compares two CSV fi
 - Maven
 - Spring Boot
 - OpenCSV library
+- Apache POI library
 
 ### Installation
 
